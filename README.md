@@ -1,4 +1,4 @@
-# 1---Projeto-de-arquitetura-monol-tica
+# 1---Projeto-de-arquitetura-monol-tico
 Projeto de arquitetura monolítica Utilizando PHP, Mysql, HTML, CSS, Bootstrap 
 
 O projeto consiste em um CRUD(criar, ler, atualizar e deletar) onde é possível adicionar os jogos de sua coleção ou que você pretende jogar.
